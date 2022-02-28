@@ -14,7 +14,21 @@ p {
 }
 
 em {
-	font-size: 1.5;
+
+	font-weight: bold;
+}
+
+hr {
+	border-color: #C8C6C6;
+	border-top-style: solid;
+	border-width: 1px;
+	height: 0px;
+	width: 100%;
+}
+
+.title-line{
+
+	border-width: 4px;
 }
 
 /* Container */
@@ -110,6 +124,12 @@ em {
 	color: #8f8f8f;
 }
 
+/* Contact me */
+
+/* label{
+	font-size: 3rem;
+} */
+
 .contactme {
 	width: 12%;
 }
@@ -134,6 +154,6 @@ em {
 	}
 
 	.contactme {
-		width: 40%;
+		width: 20%;
 	}
 }
