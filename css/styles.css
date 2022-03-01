@@ -26,6 +26,16 @@ hr {
 	width: 100%;
 }
 
+a:link {
+  text-decoration: none;
+	color: #8f8f8f;
+}
+
+a:visited {
+  text-decoration: none;
+	color: #D1D1D1;
+}
+
 .title-line{
 
 	border-width: 4px;
@@ -156,7 +166,7 @@ hr {
 
 	.big-heading {
 		text-align: center;
-		font-size: 1.5rem;
+		font-size: 1.3rem;
 	}
 
 	.contactme {
