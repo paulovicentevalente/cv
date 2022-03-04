@@ -1,1 +1,1 @@
-# That's my resume done in html using CSS.
+# That's my personal profile done in html using CSS.
