@@ -38,6 +38,12 @@ a:visited {
 			color: #8f8f8f;
 }
 
+.email{
+	font-size: 0.8rem;
+	line-height: 0.5;
+	text-align: right;
+}
+
 .title-line{
 
 	border-width: 4px;
